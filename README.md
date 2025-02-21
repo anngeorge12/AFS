@@ -1,1 +1,2 @@
 # AFS
+Developed a machine learning-powered firewall system to detect and block phishing websites in real time. Trained a model on URL-based phishing detection using features like domain analysis, redirection patterns, and WHOIS data. Integrated the model with an existing firewall to dynamically generate blocking rules. Built a user-friendly interface with Streamlit for monitoring and rule management.
